@@ -1,0 +1,13 @@
+// MakeUpperCase
+// JavaScript:
+
+
+//solution 1
+const makeUpperCase = str => str.toUpperCase()
+
+//solution2
+function makeUpperCase(str) {
+ return(str.toUpperCase());
+  // Code here
+}
+makeUpperCase("hello");
