@@ -2,6 +2,6 @@
 
 // JavaScript:
 const boolToWord = bool => {
-  const convert = bool === true ? "Yes" : "No" 
-  return convert
-}
+    const convert = bool === true ? "Yes" : "No" 
+    return convert
+  }
